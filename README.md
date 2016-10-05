@@ -15,11 +15,6 @@ Makes a url connection to server with command to be executed.
 The biggest motivation is to understand the working of HTTP SERVER REQUEST and HTTP SERVER RESPONSE.
 It servers as a remote server monitor to vies stats on mobile device and revies log files.
 
-## API Reference
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. 
-For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
-
 ## Tests
 
 Describe and show how to run the tests with code examples.
