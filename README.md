@@ -1,4 +1,4 @@
-# GETServerRespose
+# GETServerResponse
 
 
 ## Synopsis
