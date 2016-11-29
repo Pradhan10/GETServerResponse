@@ -12,12 +12,8 @@ Makes a url connection to server with command to be executed.
 
 ## Motivation
 
-The biggest motivation is to understand the working of HTTP SERVER REQUEST and HTTP SERVER RESPONSE.
-It servers as a remote server monitor to vies stats on mobile device and revies log files.
-
-## Tests
-
-Describe and show how to run the tests with code examples.
+The biggest motivation is to understand the working of HTTP Server request and HTTP Server response.
+It servers as a remote server monitor to view stats on mobile device and review log files.
 
 ## Contributors
 
@@ -26,4 +22,4 @@ Email : pradhanrishi10@gmail.com
 
 ## License
 
-Lisenced under GNU GPL  GNU General Public License (GNU GPL) V2.0 or above
+Licensed under GNU General Public License (GNU GPL) V2.0 or above.
